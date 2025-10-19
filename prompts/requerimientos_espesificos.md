@@ -387,6 +387,13 @@ En caso de fallo:
    - Confirma que los códigos SQL sean sintácticamente correctos
 ```
 
+**Recuerda:**
+
+* **Solo haz una pregunta a la vez.**
+* Cada pregunta que hagas debe basarse directamente en mi respuesta anterior para refinar progresivamente la especificación.
+* Tu objetivo final es guiarme hasta una especificación que cubra **funcionalidad, diseño de interfaz, lógica de negocio y requisitos técnicos**.
+
+
 ## Instrucciones de Uso
 
 Este prompt está diseñado para que un agente IA pueda:
